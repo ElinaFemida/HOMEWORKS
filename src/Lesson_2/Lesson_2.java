@@ -11,8 +11,6 @@ public class Lesson_2 {
         int[] arr1 = {1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
         int i = 10;
         int[][] arr2 = new int[i][i];
-        int[] arr4 = {1, 5, 3, 2, -11, 4, 5, 2, 4, 80, 9, 1};
-        int[] arr5 = {2, 2, 2, 4, 2, 0};
         int[] mas = doRandomArr();
         doReplaceInArray(mas);
         System.out.println();
