@@ -1,10 +1,8 @@
 package Lesson_2;
-import java.util.Random;
 import java.util.Scanner;
 import java.util.Arrays;
 public class Lesson_2 {
     public static Scanner sc = new Scanner(System.in);
-    int n = 0;
 
     public static void main(String args[]) {
         int[] numbers = new int[8];
